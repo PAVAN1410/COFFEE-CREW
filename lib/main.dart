@@ -16,14 +16,13 @@ class MyApp extends StatelessWidget {
       value: AuthService().user,
           child: MaterialApp(
             debugShowCheckedModeBanner: false,
-    //         initialRoute: '/',
-    // routes: {
-    //   '/': (context) => wrapper(),
-    //   '/chat': (context) => chat(),
-    //   //'/location': (context) => choose_location(),
+            initialRoute: '/',
+    routes: {
+      '/': (context) => wrapper(),
+      '/chat': (context) => chat(),
+      //'/location': (context) => choose_location(),
 
-    // }          
-    home: profilePicture(),
+    }          
       ),
     );
   }

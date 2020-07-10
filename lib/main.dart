@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
     routes: {
       '/': (context) => wrapper(),
       '/chat': (context) => chat(),
-      //'/location': (context) => choose_location(),
+      
 
     }          
       ),

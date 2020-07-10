@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "226383564560",
+    "firebase_url": "https://visual-studio-brew.firebaseio.com",
+    "project_id": "visual-studio-brew",
+    "storage_bucket": "visual-studio-brew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226383564560:android:a7d8d4ebbcb37e8a895f95",
+        "android_client_info": {
+          "package_name": "com.exam.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226383564560-glcaehpfuovn84l5oh35qa6igr7rgomg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN2LsTbcRBdBYAJrwdS71FoHDxYI-32DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226383564560-glcaehpfuovn84l5oh35qa6igr7rgomg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
